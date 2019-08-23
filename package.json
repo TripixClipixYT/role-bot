@@ -8,7 +8,7 @@
   },
   "author": "me",
   "license": "ISC"
-}
+},
   "engines": {
     "node": "8.x",
     "npm": "*"
