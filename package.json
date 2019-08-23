@@ -6,14 +6,14 @@
   "scripts": {
     "test": "!hello"
   },
-  "author": "me",
-  "license": "ISC"
-}
-  "engines": {
+    "engines": {
     "node": "10.16.3",
     "npm": "*"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
-  }
+  },
+  "author": "me",
+  "license": "ISC"
+}
