@@ -1,5 +1,5 @@
 const Discord = require('discord.js');
-const token = 'NjE0MjMzMzU4NTg2NzQwNzUz.XV8fmA.Z2YTUpQVueLYjPnGED1lW3H-mC4'
+const token = 'process.env.token'
 
 var BLUE_ROLE = '580767519489654784';
 var RED_ROLE = '580767602415239170';
