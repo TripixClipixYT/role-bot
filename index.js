@@ -56,4 +56,4 @@ bot.on('message', (message) => {
 
 });
 console.log("Role Bot is online")
-bot.login(token);
+bot.login(process.env.CLIENT_TOKEN);
